@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🌱 What I'm learning
 - Currently diving deep into: [Rust](https://www.rust-lang.org/)
 - Exploring: [Robot Operating System](https://www.ros.org/)
+- Using: [Nix](https://nixos.org/) for managing configurations on my computers
 
 ## ⚡ Fun fact
 - I love ROS development, 3d printing, making stuff; software and hardware.
